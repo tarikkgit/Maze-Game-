@@ -1,0 +1,139 @@
+﻿  Kaynak.cpp
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,77): warning C4244: 'bağımsız değişken': 'T' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,77): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,77): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,77): warning C4244:             T=unsigned int
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,77): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,77): warning C4244:         and
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,77): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,77): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,77): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,57): warning C4244: 'bağımsız değişken': 'T' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,57): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,57): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,57): warning C4244:             T=unsigned int
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,57): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,57): warning C4244:         and
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,57): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,57): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(92,57): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(102,125): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(102,125): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(102,125): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(102,125): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(102,125): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(102,74): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(102,74): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(102,74): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(102,74): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(102,74): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(396,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(443,76): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(443,59): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(474,66): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(474,49): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(498,55): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(498,38): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(543,72): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(543,55): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(554,66): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(554,49): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(597,76): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(597,59): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(846,69): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(846,69): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(846,69): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(846,69): warning C4244:             T=unsigned int
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(846,69): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(846,51): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(846,51): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(846,51): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(846,51): warning C4244:             T=unsigned int
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(846,51): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(864,67): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(864,67): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(864,67): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(864,67): warning C4244:             T=unsigned int
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(864,67): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(864,49): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(864,49): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(864,49): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(864,49): warning C4244:             T=unsigned int
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(864,49): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,86): warning C4244: 'bağımsız değişken': 'T' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,86): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,86): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,86): warning C4244:             T=int
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,86): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,86): warning C4244:         and
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,86): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,86): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,86): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,74): warning C4244: 'bağımsız değişken': 'T' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,74): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,74): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,74): warning C4244:             T=int
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,74): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,74): warning C4244:         and
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,74): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,74): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(875,74): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,84): warning C4244: 'bağımsız değişken': 'T' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,84): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,84): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,84): warning C4244:             T=int
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,84): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,84): warning C4244:         and
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,84): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,84): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,84): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,72): warning C4244: 'bağımsız değişken': 'T' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,72): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,72): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,72): warning C4244:             T=int
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,72): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,72): warning C4244:         and
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,72): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,72): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(876,72): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(909,108): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(909,108): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(909,108): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(909,108): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(909,108): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(909,89): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(909,89): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(909,89): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(909,89): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(909,89): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(917,107): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(917,107): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(917,107): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(917,107): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(917,107): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(917,88): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(917,88): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(917,88): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(917,88): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(917,88): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(928,103): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(928,103): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(928,103): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(928,103): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(928,103): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(928,82): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(928,82): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(928,82): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(928,82): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(928,82): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(951,107): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(951,107): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(951,107): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(951,107): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(951,107): warning C4244:         ]
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(951,86): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(951,86): warning C4244:         with
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(951,86): warning C4244:         [
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(951,86): warning C4244:             T=float
+C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\Test Project\Kaynak.cpp(951,86): warning C4244:         ]
+  Test Project.vcxproj -> C:\Kod Projeleri\C Programlama Sorular\Hafta Sonu Labı\Geçtiklerim\2.Dönem\visual c++\Test Project\x64\Debug\Test Project.exe

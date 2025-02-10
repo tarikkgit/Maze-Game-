@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kod Projeleri\\C Programlama Sorular\\Hafta Sonu Lab\u0131\\Ge\u00E7tiklerim\\2.D\u00F6nem\\visual c\u002B\u002B\\Test Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8DD83C-1D4B-4497-BC53-C8F377329287}|Test Project\\Test Project.vcxproj|C:\\Kod Projeleri\\C Programlama Sorular\\Hafta Sonu Lab\u0131\\Ge\u00E7tiklerim\\2.D\u00F6nem\\visual c\u002B\u002B\\Test Project\\Test Project\\Kaynak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE8DD83C-1D4B-4497-BC53-C8F377329287}|Test Project\\Test Project.vcxproj|solutionrelative:Test Project\\Kaynak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kaynak.cpp",
+              "DocumentMoniker": "C:\\Kod Projeleri\\C Programlama Sorular\\Hafta Sonu Lab\u0131\\Ge\u00E7tiklerim\\2.D\u00F6nem\\visual c\u002B\u002B\\Test Project\\Test Project\\Kaynak.cpp",
+              "RelativeDocumentMoniker": "Test Project\\Kaynak.cpp",
+              "ToolTip": "C:\\Kod Projeleri\\C Programlama Sorular\\Hafta Sonu Lab\u0131\\Ge\u00E7tiklerim\\2.D\u00F6nem\\visual c\u002B\u002B\\Test Project\\Test Project\\Kaynak.cpp",
+              "RelativeToolTip": "Test Project\\Kaynak.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T08:43:17.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
