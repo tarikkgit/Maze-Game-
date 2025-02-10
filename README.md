@@ -1,4 +1,4 @@
-random map design
+
 ![Ekran görüntüsü 2025-02-10 211745](https://github.com/user-attachments/assets/f069bb8f-85cd-4cf5-883c-1d196c5b58cf)
 
 
