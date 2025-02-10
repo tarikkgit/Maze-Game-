@@ -1,20 +1,21 @@
-![Ekran görüntüsü 2025-02-10 211745](https://github.com/user-attachments/assets/ec374c29-f280-41b4-9bcd-157b0d3b2d36)
+random map design
+![Ekran görüntüsü 2025-02-10 211745](https://github.com/user-attachments/assets/f069bb8f-85cd-4cf5-883c-1d196c5b58cf)
 
 
 
 
 
 
-
-
-![Ekran görüntüsü 2025-02-10 211911](https://github.com/user-attachments/assets/62b0388c-6e13-4ae2-89d5-0da5a0ea958c)
-
+![Ekran görüntüsü 2025-02-10 212754](https://github.com/user-attachments/assets/85d2b825-23d8-4492-a5b6-cbbd689e7106)
 
 
 
 
 
 
+![Ekran görüntüsü 2025-02-10 212812](https://github.com/user-attachments/assets/646f8bc6-b374-49cd-973b-15042aeaf7cc)
 
-![Ekran görüntüsü 2025-02-10 211927](https://github.com/user-attachments/assets/2c27c368-0aea-402b-b65d-2c66c7c88caf)
 
+
+
+![Ekran görüntüsü 2025-02-10 212801](https://github.com/user-attachments/assets/b93b3114-2eea-4245-b7ca-3a412b15535e)
